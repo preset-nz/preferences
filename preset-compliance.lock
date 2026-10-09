@@ -15,7 +15,7 @@ sha256 = "00596af01374024c0b77c9b53e89d7c84c418b449c04a1cc5c52d571a73f1741"
 [[inputs]]
 path = "pnpm-lock.yaml"
 ecosystem = "pnpm"
-sha256 = "c3525590bc2195d2402a92048d341c38efad39c312891b6fa2fee9620167cc8f"
+sha256 = "feb672365d2cb9c7befd22ddb4941276eff28c455384b16e3b3899d26c420edc"
 
 [[packages]]
 ecosystem = "cargo"
@@ -3196,7 +3196,7 @@ scope = "dev"
 [[packages]]
 ecosystem = "pnpm"
 name = "@tauri-apps/api"
-version = "2.11.1"
+version = "2.12.1"
 source = "registry"
 declared = "Apache-2.0 OR MIT"
 scope = "dev"
