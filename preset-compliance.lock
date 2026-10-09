@@ -6,7 +6,7 @@ version = 1
 [[inputs]]
 path = "Cargo.lock"
 ecosystem = "cargo"
-sha256 = "d36396e8ee8506ef9713b25e4033c0175bac1f4a27fb114a09b06ab734610aa2"
+sha256 = "9f1e8d2dc5dd094f69ba6d906b815d7d740b227ffdcdbea14228df8fbabc344d"
 
 [[inputs]]
 path = "Cargo.toml"
@@ -2180,7 +2180,7 @@ scope = "shipped"
 [[packages]]
 ecosystem = "cargo"
 name = "thiserror"
-version = "2.0.20"
+version = "2.0.21"
 source = "registry"
 declared = "MIT OR Apache-2.0"
 scope = "shipped"
@@ -2196,7 +2196,7 @@ scope = "build"
 [[packages]]
 ecosystem = "cargo"
 name = "thiserror-impl"
-version = "2.0.20"
+version = "2.0.21"
 source = "registry"
 declared = "MIT OR Apache-2.0"
 scope = "build"
